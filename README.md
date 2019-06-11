@@ -4,7 +4,7 @@ A new Flutter application.
 
 | Screenshot |
 |---|
-|   |
+| ![](https://github.com/rcoproc/flutter_conversor_moedas/blob/master/images/conversor_moedas.jpeg) |
 
 ## Getting Started
 
